@@ -1,36 +1,37 @@
-# If you want to move down the line, please use \n. e.g: SpermLord\nCatalizcs.
+# If you want to move down the line, please use \n. e.g: Priyanshu\nPriyansh.
 # After changed, you have to restart the bot to use.
 # Put the # character at the beginning of each sentence if you don't want the code to run those lines. 
 # Thanks to https://www.facebook.com/duong.than.net for translate to English!
 
-# umaru.js 
+# Priyansh.js 
 
-mirai.errorFormat=Malformed module!
-mirai.nameExist=Module's name is similar to another module!
-mirai.notFoundLanguage=Module %1 don't support your language
-mirai.notFoundPackage=Can't find package %1 support for module %2, installing...
-mirai.cantInstallPackage=Can't install package %1 for module %2, error: %3
-mirai.loadedPackage=Installed whole package successfully for module %1
-mirai.loadedConfig=Installed config successfully for module %1
-mirai.cantLoadConfig=Can't install config of module %1, error: %2
-mirai.cantOnload=Can't launch setup of module %1, error: %1
-mirai.successLoadModule=Successfully installed module %1
-mirai.failLoadModule=Can't install module %1, error: %2
-mirai.finishLoadModule=Installed %1 module commands and %2 module events successfully 
-mirai.foundPathAppstate=Found file jekastate
-mirai.notFoundPathAppstate=Can't find file jekastate
-mirai.checkListGban=Cheking global ban list...
-mirai.banDevice=Your device have been banned from Jeka File, please contact to facebook https://facebook.com/6ixAxie to know more information or asking for unban key, if you already have unban key, please fill it below.
-mirai.keyNotSameFormat=Wrong format, code must contain 6 number.
-mirai.codeInputExpired=Your code is wrong or out of date.
-mirai.unbanDeviceSuccess=Your device are unban now, please restart to use.
-mirai.userBanned=You had been banned from miraiproject when %1 with reason: %2. Please contact to facebook https://facebook.com/6ixAxie to have more information!
-mirai.finishCheckListGban=Checked global ban list
-mirai.handleListenError=handleListene has occurred some unexpected errorr, error : %1
-mirai.warningSourceCode=DETECTED THAT SOURCE CODE'S STRUCTURE HAD BEEN CHANGED , STOP NOW!
-mirai.refreshListen=Refreshed handleListener...
-mirai.successConnectDatabase=Connected to database successfully!
-mirai.failConnectDatabase=Failed to connect to database, error: %1
+priyansh.newVersionDetected=𝐘𝐨𝐮 𝐚𝐫𝐞 𝐮𝐬𝐢𝐧𝐠 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 %1, 𝐭𝐡𝐞 𝐥𝐚𝐭𝐞𝐬𝐭 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 𝐢𝐬 %2. 𝐏𝐥𝐞𝐚𝐬𝐞 𝐮𝐩𝐝𝐚𝐭𝐞 𝐭𝐨 𝐭𝐡𝐞 𝐥𝐚𝐭𝐞𝐬𝐭 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 𝐨𝐟 𝐟𝐨𝐫 𝐛𝐞𝐭𝐭𝐞𝐫 𝐛𝐨𝐭 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞. 𝐅𝐨𝐫 𝐮𝐩𝐝𝐚𝐭𝐞 𝐭𝐲𝐩𝐞 𝐢𝐧 𝐜𝐨𝐧𝐬𝐨𝐥𝐞/𝐜𝐦𝐝: 𝐧𝐨𝐝𝐞 𝐮𝐩𝐝𝐚𝐭𝐞
+priyansh.errorFormat=Malformed module!
+priyansh.nameExist=Module's name is similar to another module!
+priyansh.notFoundLanguage=Module %1 don't support your language
+priyansh.notFoundPackage=Can't find package %1 support for module %2, installing...
+priyansh.cantInstallPackage=Can't install package %1 for module %2, error: %3
+priyansh.loadedPackage=Installed whole package successfully for module %1
+priyansh.loadedConfig=Installed config successfully for module %1
+priyansh.cantLoadConfig=Can't install config of module %1, error: %2
+priyansh.cantOnload=Can't launch setup of module %1, error: %1
+priyansh.successLoadModule=Successfully installed module %1
+priyansh.failLoadModule=Can't install module %1, error: %2
+priyansh.finishLoadModule=Installed %1 module commands and %2 module events successfully 
+priyansh.foundPathAppstate=Found appstate file now logging in...
+priyansh.notFoundPathAppstate=Error can't find appstate file maybe file is malformed!
+priyansh.checkListGban=Checking global ban list...
+priyansh.banDevice=Your device have been banned from Priyanshproject, please contact to facebook https://fb.me/Priyanshu.Rajput.official to know more information or asking for unban key, if you already have unban key, please fill it below.
+priyansh.keyNotSameFormat=Wrong format, code must contain 6 number.
+priyansh.codeInputExpired=Your code is wrong or out of date.
+priyansh.unbanDeviceSuccess=Your device are unban now, please restart to use.
+priyansh.userBanned=You had been banned from Priyanshproject when %1 with reason: %2. Please contact to facebook https://fb.me/Priyanshu.Rajput.official to have more information!
+priyansh.finishCheckListGban=Checked global ban list
+priyansh.handleListenError=handleListene has occurred some unexpected errorr, error : %1
+priyansh.warningSourceCode=DETECTED THAT SOURCE CODE'S STRUCTURE HAD BEEN CHANGED , STOP NOW!
+priyansh.refreshListen=Refreshed handleListener...
+priyansh.successConnectDatabase=Connected to database successfully!
+priyansh.failConnectDatabase=Failed to connect to database, error: %1
 
 # includes/listen.js
 
@@ -60,19 +61,19 @@ users.needObject=Have to be an Object
 
 handleCommand.userBanned=You are unable to use bot!\n%1\n%2
 handleCommand.threadBanned=Your thread are unable to use bot!\n%1\n%2
-handleCommand.commandNotExist=The command you used is not working, that is "%1" or not?
-handleCommand.commandThreadBanned=Your thread is not allowed to use "%1"
-handleCommand.commandUserBanned=you're not allowed to use command "%1"
-handleCommand.threadNotAllowNSFW=your thread is not allowed to use NSFW command
-handleCommand.cantGetInfoThread=Hindi makuha ang impormasyon ng iyong thread, error: %1
-handleCommand.permssionNotEnough=you dont have permission to use command "%1"
-handleCommand.cantSetMessageReaction=Having some error in setMessageReaction, error: %1
-handleCommand.executeCommand=[ %1 ] command use: %2 of user: %3 in thread: %4 | with : %5 | Time Process: %6ms
-handleCommand.commandError=Having some error when using command %1, error: %2
+handleCommand.commandNotExist=Command is not found is that %1 or not?
+handleCommand.commandThreadBanned=Your thread is unable to use command "%1"
+handleCommand.commandUserBanned=You are unable to use command "%1"
+handleCommand.threadNotAllowNSFW=Your thread is not allowed to use NSFW commands
+handleCommand.cantGetInfoThread=Can't get your thread's info, error: %1
+handleCommand.permssionNotEnough=You have no permission to use command "%1"
+handleCommand.cantSetMessageReaction=Having some unexpected error at setMessageReaction, error: %1
+handleCommand.executeCommand=[ %1 ] Command used: %2 by user: %3 at thread: %4 | Args included: %5 | Processing time: %6ms
+handleCommand.commandError=Having some unexpected error when using command %1, error: %2
 
 # includes/handle/handleCommandEvent.js
 
-handleCommandEvent.moduleError=Having some error when using command %1, error: %2
+handleCommandEvent.moduleError=Having some unexpected error when using command %1, error: %2
 
 # includes/handle/handleCreateDatabase.js
 
@@ -100,4 +101,4 @@ handleSchedule.exectuteError=Having some error when schedule at module %1, error
 
 # utils/index.js
 
-utils.throwError=[!] Bot doesn't read syntax you entered, Please use %1help %2 for more usage information
+utils.throwError=[!] The command you are using is not syntax correct, please use %1help %2 for more usage details
