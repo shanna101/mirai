@@ -6,14 +6,14 @@
     "notiGroup": true,
     "NOTIFICATION": true,
     "allowInbox": false,
-    "autoClean": true,
+    "autoClean": false,
     "commandDisabled": [],
     "eventDisabled":[],
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "MEATS KAI",
-    "PREFIX": "+",
+    "PREFIX": "/",
     "ADMINBOT": [
         "100080008820985"
     ],
