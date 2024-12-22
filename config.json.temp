@@ -17,21 +17,21 @@
     "eventDisabled": [
         ""
     ],
-    "BOTOWNER": "Ralph Angelo Garcia",
-    "OWNERLINK": "https://www.facebook.com/100080328720199",
-    "OWNERID": "100080328720199",
-    "BOTCREATOR": "Ralph",
+    "BOTOWNER": "Shanna Mae Añonuevo",
+    "OWNERLINK": "https://www.facebook.com/61563454044150",
+    "OWNERID": "61563454044150",
+    "BOTCREATOR": "Shanna",
     "APIKEY": "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",
     "openai": "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",
-    "CREATORLINK": "https://www.facebook.com/100080328720199",
+    "CREATORLINK": "https://www.facebook.com/61563454044150",
     "PERMISSION1": [
-        "100080328720199",
+        "61563454044150",
         "",
         ""
     ],
     "RestartEvery": 30,
     "ONLY": [
-        "100080328720199",
+        "61563454044150",
         "",
         "",
         "",
@@ -39,10 +39,10 @@
     ],
     "PASSWORD": "",
     "autoaccept": "false",
-    "BOTNAME": "Ralph",
-    "PREFIX": "/",
+    "BOTNAME": "Tazhlee",
+    "PREFIX": "+",
     "ADMINBOT": [
-        "100080328720199"
+        "61563454044150"
     ],
     "DATABASE": {
         "sqlite": {
