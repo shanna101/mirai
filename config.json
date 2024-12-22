@@ -12,10 +12,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "BOT NAME",
-    "PREFIX": "/",
+    "BOTNAME": "Tazhlee",
+    "PREFIX": "+",
     "ADMINBOT": [
-        ""
+        "61563454044150"
     ],
     "NDH": [
         ""
